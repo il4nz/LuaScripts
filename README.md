@@ -1,11 +1,14 @@
 <h1 align="center">
   <br>
-  <img src="https://static.ls-rcr.com/avatars/841979-5e506d482dcb020f5c15217bccc6f271d5425608cc3acd0503b3d83b5d68616e.jpg" alt="TGOLS" width="200">
+  <img src="https://ls-rcr.com/images/logo.png" alt="Lsrcr" width="200" > 
   
-  <br>
-  Moonloader Scripts
-  <br>
 </h1>
 
-Credits: 
+
+
+### Built With:
+<img src="http://blast.hk/moonloader/images/moonloader.png" alt="Moonloader" width="150" height="50">
+  
+### Credits:
 - [Medz](https://discordapp.com/users/1097958212612923402) 
+
