@@ -64,8 +64,8 @@ end
 function sampev.onPlayerDeathNotification(killerid, killedid, reason)
     local _, id = sampGetPlayerIdByCharHandle(playerPed)
     local colorx = ("%X"):format(sampGetPlayerColor(killerid)):gsub(".*(......)", "%1")
-    sampAddChatMessage(colorx, 0xff0000)
-    sampAddChatMessage(colorslist[colorx], -1)
+    --sampAddChatMessage(colorx, 0xff0000)
+    --sampAddChatMessage(colorslist[colorx], -1)
     if killedid == id and killerid ~= 65535 then
         createDeathLog(
             string.format(
