@@ -15,7 +15,7 @@
 </h3>
 
   <div align="center">
-  <a href="https://ls-rcr.com/user/meow" target="blank"><img align="center" src="https://avatars.akamai.steamstatic.com/7cb3e095b0aa081086dad83787a4e04cda63404c_full.jpg" alt="Medz" height="70" width="70" />
+  <a href="https://ls-rcr.com/user/meow" target="blank"><img align="center" src="https://avatars.fastly.steamstatic.com/ecbc962e89496cf4377f26e5e0d05cce8b10f5cc_full.jpg" alt="Medz" height="70" width="70" />
   </div>
 
 
