@@ -1,0 +1,1 @@
+[{"show":false,"x":1215,"centering":1,"y":551,"fOffs":16,"fsize":9,"fflag":5,"linesChat":5,"showTime":true,"fname":"Arial","name":"RegIP","regex":[{"regular":"������������ ������ ������ ������ �������: {......}.+ {......}%(ID: %d+%)  {......}IP: .+","colors":{"based":"FFFFFFFF","time":"FFFFFFFF"}}]}]

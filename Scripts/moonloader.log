@@ -1,0 +1,64 @@
+[14:45:14.039906] (system)	Session started.
+[14:45:14.039906] (debug)	Module handle: 7BC10000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[14:45:14.039906] (info)	Working directory: D:\Medz's GTA\moonloader
+[14:45:14.039906] (debug)	FP Control: 0009001F
+[14:45:14.039906] (debug)	Game: GTA SA 1.0.0.0 US
+[14:45:14.039906] (system)	Installing pre-game hooks...
+[14:45:14.042901] (system)	Hooks installed.
+[14:45:14.895100] (debug)	Initializing opcode handler table
+[14:45:14.895100] (debug)	package.path = D:\Medz's GTA\moonloader\lib\?.lua;D:\Medz's GTA\moonloader\lib\?\init.lua;D:\Medz's GTA\moonloader\?.lua;D:\Medz's GTA\moonloader\?\init.lua;.\?.lua;D:\Medz's GTA\moonloader\lib\?.luac;D:\Medz's GTA\moonloader\lib\?\init.luac;D:\Medz's GTA\moonloader\?.luac;D:\Medz's GTA\moonloader\?\init.luac;.\?.luac
+[14:45:14.895100] (debug)	package.cpath = D:\Medz's GTA\moonloader\lib\?.dll;
+[14:45:14.895100] (system)	Loading script 'D:\Medz's GTA\moonloader\Addons_demo.lua'...
+[14:45:14.895100] (debug)	New script: 152CAAB4
+[14:45:14.931002] (system)	Addons_demo.lua: Loaded successfully.
+[14:45:14.931002] (system)	Loading script 'D:\Medz's GTA\moonloader\imgui_notf.lua'...
+[14:45:14.931002] (debug)	New script: 152CA61C
+[14:45:14.944967] (system)	imgui_notf.lua: Loaded successfully.
+[14:45:14.944967] (system)	Loading script 'D:\Medz's GTA\moonloader\reload_all.lua'...
+[14:45:14.944967] (debug)	New script: 152CA494
+[14:45:14.945964] (system)	ML-ReloadAll: Loaded successfully.
+[14:45:14.945964] (system)	Loading script 'D:\Medz's GTA\moonloader\SF Integration.lua'...
+[14:45:14.945964] (debug)	New script: 152CAC3C
+[14:45:14.946961] (system)	SF Integration: Loaded successfully.
+[14:45:14.946961] (system)	Loading script 'D:\Medz's GTA\moonloader\[CMD] Short Commands.lua'...
+[14:45:14.946961] (debug)	New script: 152CA184
+[14:45:14.947963] (system)	[CMD] Short Commands.lua: Loaded successfully.
+[14:45:14.947963] (system)	Loading script 'D:\Medz's GTA\moonloader\[MENU] SWAT V1.1.lua'...
+[14:45:14.947963] (debug)	New script: 152CA92C
+[14:45:14.963914] (system)	[MENU] SWAT V1.1.lua: Loaded successfully.
+[14:45:14.963914] (system)	Loading script 'D:\Medz's GTA\moonloader\[MENU] TGOLS.lua'...
+[14:45:14.963914] (debug)	New script: 152CA30C
+[14:45:14.980868] (system)	[MENU] TGOLS.lua: Loaded successfully.
+[14:45:14.980868] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] fixCarLeave.lua'...
+[14:45:14.980868] (debug)	New script: 152CADC4
+[14:45:14.981867] (system)	[SCRIPT] fixCarLeave.lua: Loaded successfully.
+[14:45:14.981867] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] Logo.lua'...
+[14:45:14.981867] (debug)	New script: 152CAF4C
+[14:45:15.862555] (system)	[SCRIPT] Logo.lua: Loaded successfully.
+[14:45:15.862555] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] Medz.lua'...
+[14:45:15.862555] (debug)	New script: 152C99DC
+[14:45:15.880507] (system)	[SCRIPT] Medz.lua: Loaded successfully.
+[14:45:15.880507] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] setWeather&Time.lua'...
+[14:45:15.880507] (debug)	New script: 152C9234
+[14:45:15.880507] (system)	setWeather&Time: Loaded successfully.
+[14:45:15.880507] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] Skin Changer.lua'...
+[14:45:15.880507] (debug)	New script: 152C9E74
+[14:45:15.884496] (system)	sskin: Loaded successfully.
+[14:45:15.884496] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT] ts.lua'...
+[14:45:15.884496] (debug)	New script: 152C9544
+[14:45:15.893471] (system)	Medz Menu: Loaded successfully.
+[14:45:15.893471] (system)	Loading script 'D:\Medz's GTA\moonloader\[SCRIPT]Ww_DisableAccesoriesOnAiming.lua'...
+[14:45:15.893471] (debug)	New script: 152C96CC
+[14:45:15.895466] (system)	[SCRIPT]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[14:45:15.895466] (system)	[CMD] Short Commands.lua: Script terminated. (152CA184)
+[14:45:16.418811] (system)	Installing post-load hooks...
+[14:45:16.419808] (system)	Hooks installed.
+[14:45:21.058288] (script)	[SCRIPT] Medz.lua: Connnection accepted
+[14:45:22.996970] (script)	[SCRIPT] Medz.lua: [LOGS LOADED]:

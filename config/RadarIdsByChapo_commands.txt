@@ -1,0 +1,5 @@
+/re {id}
+/goto {id}
+/check {id}
+/gethere {id}
+/stats {id}

@@ -1,0 +1,955 @@
+[04:00:55.934641] (system)	Session started.
+[04:00:55.935634] (debug)	Module handle: 5F3E0000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[04:00:55.935634] (info)	Working directory: G:\Medz's GTA [NEW]\moonloader
+[04:00:55.935634] (debug)	FP Control: 0009001F
+[04:00:55.935634] (debug)	Game: GTA SA 1.0.0.0 US
+[04:00:55.935634] (system)	Installing pre-game hooks...
+[04:00:55.939622] (system)	Hooks installed.
+[04:00:57.764967] (debug)	Initializing opcode handler table
+[04:00:57.764967] (debug)	package.path = G:\Medz's GTA [NEW]\moonloader\lib\?.lua;G:\Medz's GTA [NEW]\moonloader\lib\?\init.lua;G:\Medz's GTA [NEW]\moonloader\?.lua;G:\Medz's GTA [NEW]\moonloader\?\init.lua;.\?.lua;G:\Medz's GTA [NEW]\moonloader\lib\?.luac;G:\Medz's GTA [NEW]\moonloader\lib\?\init.luac;G:\Medz's GTA [NEW]\moonloader\?.luac;G:\Medz's GTA [NEW]\moonloader\?\init.luac;.\?.luac
+[04:00:57.764967] (debug)	package.cpath = G:\Medz's GTA [NEW]\moonloader\lib\?.dll;
+[04:00:57.765964] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:00:57.765964] (debug)	New script: 0F487E4C
+[04:00:57.766962] (system)	hooks.lua: Loaded successfully.
+[04:00:57.766962] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:00:57.766962] (debug)	New script: 0F487FD4
+[04:00:57.785917] (system)	imgui_notf.lua: Loaded successfully.
+[04:00:57.785917] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:00:57.785917] (debug)	New script: 0F48846C
+[04:00:57.786913] (system)	Infinite Run: Loaded successfully.
+[04:00:57.786913] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:00:57.786913] (debug)	New script: 0F48815C
+[04:00:57.799878] (system)	Medz.lua: Loaded successfully.
+[04:00:57.799878] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:00:57.799878] (debug)	New script: 0F4885F4
+[04:00:57.800895] (system)	ML-ReloadAll: Loaded successfully.
+[04:00:57.800895] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SaveScreenCommand.lua'...
+[04:00:57.800895] (debug)	New script: 0F488904
+[04:00:57.802890] (system)	Example: Loaded successfully.
+[04:00:57.802890] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:00:57.802890] (debug)	New script: 0F488C14
+[04:00:57.803888] (system)	SF Integration: Loaded successfully.
+[04:00:57.803888] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:00:57.803888] (debug)	New script: 0F488F24
+[04:00:57.808882] (system)	xmashack.lua: Loaded successfully.
+[04:00:57.808882] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:00:57.808882] (debug)	New script: 0F48877C
+[04:00:57.811868] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:00:57.811868] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:00:57.811868] (debug)	New script: 0F488A8C
+[04:00:57.812865] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:00:57.812865] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:00:57.812865] (debug)	New script: 0F4890AC
+[04:00:57.816829] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:00:57.816829] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:00:57.816829] (debug)	New script: 0F488D9C
+[04:00:57.817827] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:00:57.817827] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:00:57.817827] (debug)	New script: 0F489234
+[04:00:57.818827] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:00:57.818827] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:00:57.818827] (debug)	New script: 0F4893BC
+[04:00:57.821816] (system)	sskin: Loaded successfully.
+[04:00:57.821816] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:00:57.821816] (debug)	New script: 0BBDD484
+[04:00:57.821816] (system)	setWeather&Time: Loaded successfully.
+[04:00:57.821816] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:00:57.821816] (debug)	New script: 0F8893FC
+[04:00:57.848744] (system)	Medz Menu: Loaded successfully.
+[04:00:57.848744] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:00:57.848744] (debug)	New script: 0F889BA4
+[04:00:57.865697] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:00:57.865697] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:00:57.865697] (debug)	New script: 0F889D2C
+[04:00:57.873677] (system)	Chat MImGui: Loaded successfully.
+[04:00:57.873677] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:00:57.873677] (debug)	New script: 0F889584
+[04:00:57.883650] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:00:57.883650] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:00:57.883650] (debug)	New script: 0F88A03C
+[04:00:57.915620] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:00:57.915620] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:00:57.915620] (debug)	New script: 0F888ACC
+[04:00:57.919627] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:00:57.919627] (system)	[Cmd] Short Commands.lua: Script terminated. (0F489234)
+[04:00:58.421235] (system)	Installing post-load hooks...
+[04:00:58.421235] (system)	Hooks installed.
+[04:00:58.610712] (script)	[mimgui] Textdraws.lua: list was reset
+[04:01:00.612964] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:01:08.429782] (script)	Medz.lua: ***MEDZ LOADED***
+[04:04:49.614846] (system)	hooks.lua: Script terminated. (0F487E4C)
+[04:04:49.615843] (system)	imgui_notf.lua: Script terminated. (0F487FD4)
+[04:04:49.616841] (system)	Infinite Run: Script terminated. (0F48846C)
+[04:04:49.617838] (system)	Medz.lua: Script terminated. (0F48815C)
+[04:04:49.618840] (system)	ML-ReloadAll: Script terminated. (0F4885F4)
+[04:04:49.619832] (system)	Example: Script terminated. (0F488904)
+[04:04:49.619832] (system)	SF Integration: Script terminated. (0F488C14)
+[04:04:49.620830] (system)	xmashack.lua: Script terminated. (0F488F24)
+[04:04:49.621831] (system)	[Auto] Autologin.lua: Script terminated. (0F48877C)
+[04:04:49.622824] (system)	[Auto] fixCarLeave.lua: Script terminated. (0F488A8C)
+[04:04:49.622824] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F4890AC)
+[04:04:49.623822] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F488D9C)
+[04:04:49.624819] (system)	sskin: Script terminated. (0F4893BC)
+[04:04:49.624819] (system)	setWeather&Time: Script terminated. (0BBDD484)
+[04:04:49.625816] (system)	Medz Menu: Script terminated. (0F8893FC)
+[04:04:49.628808] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0F889BA4)
+[04:04:49.629811] (system)	Chat MImGui: Script terminated. (0F889D2C)
+[04:04:49.631805] (system)	[mimgui] Textdraws.lua: Script terminated. (0F889584)
+[04:04:49.634796] (system)	[PG] Menu V1.12.lua: Script terminated. (0F88A03C)
+[04:04:49.635794] (system)	[PG] Scripts.lua: Script terminated. (0F888ACC)
+[04:04:49.636791] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:04:49.636791] (debug)	New script: 0F4882E4
+[04:04:49.636791] (system)	hooks.lua: Loaded successfully.
+[04:04:49.636791] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:04:49.636791] (debug)	New script: 0F4890AC
+[04:04:49.650757] (system)	imgui_notf.lua: Loaded successfully.
+[04:04:49.650757] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:04:49.650757] (debug)	New script: 0F488F24
+[04:04:49.651778] (system)	Infinite Run: Loaded successfully.
+[04:04:49.651778] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:04:49.651778] (debug)	New script: 0F488904
+[04:04:49.664745] (system)	Medz.lua: Loaded successfully.
+[04:04:49.664745] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:04:49.664745] (debug)	New script: 0F4879B4
+[04:04:49.668733] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:04:49.668733] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:04:49.668733] (debug)	New script: 0F4893BC
+[04:04:49.668733] (system)	ML-ReloadAll: Loaded successfully.
+[04:04:49.668733] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:04:49.668733] (debug)	New script: 0F48846C
+[04:04:49.670732] (system)	SF Integration: Loaded successfully.
+[04:04:49.670732] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:04:49.670732] (debug)	New script: 0F48815C
+[04:04:49.675718] (system)	xmashack.lua: Loaded successfully.
+[04:04:49.675718] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:04:49.675718] (debug)	New script: 0F487B3C
+[04:04:49.678707] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:04:49.678707] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:04:49.678707] (debug)	New script: 0F487CC4
+[04:04:49.679703] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:04:49.679703] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:04:49.679703] (debug)	New script: 0F487E4C
+[04:04:49.683695] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:04:49.683695] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:04:49.683695] (debug)	New script: 0F4885F4
+[04:04:49.684692] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:04:49.684692] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:04:49.684692] (debug)	New script: 0F48877C
+[04:04:49.684692] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:04:49.684692] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:04:49.685689] (debug)	New script: 0F488C14
+[04:04:49.687674] (system)	sskin: Loaded successfully.
+[04:04:49.688677] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:04:49.688677] (debug)	New script: 0F487FD4
+[04:04:49.688677] (system)	setWeather&Time: Loaded successfully.
+[04:04:49.688677] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:04:49.688677] (debug)	New script: 0F488A8C
+[04:04:49.715638] (system)	Medz Menu: Loaded successfully.
+[04:04:49.715638] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:04:49.715638] (debug)	New script: 0F488D9C
+[04:04:49.730592] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:04:49.731590] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:04:49.731590] (debug)	New script: 0F489544
+[04:04:49.738581] (system)	Chat MImGui: Loaded successfully.
+[04:04:49.739578] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:04:49.739578] (debug)	New script: 1E2DE4D4
+[04:04:49.749555] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:04:49.749555] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:04:49.749555] (debug)	New script: 1E2DF424
+[04:04:49.779466] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:04:49.779466] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:04:49.780464] (debug)	New script: 1E2DEC7C
+[04:04:49.784430] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:04:49.785443] (system)	[Cmd] Short Commands.lua: Script terminated. (0F48877C)
+[04:04:50.717862] (script)	Medz.lua: ***MEDZ LOADED***
+[04:04:51.619665] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:09:42.255522] (system)	hooks.lua: Script terminated. (0F4882E4)
+[04:09:42.255522] (system)	imgui_notf.lua: Script terminated. (0F4890AC)
+[04:09:42.257517] (system)	Infinite Run: Script terminated. (0F488F24)
+[04:09:42.257517] (system)	Medz.lua: Script terminated. (0F488904)
+[04:09:42.259511] (system)	MonserKillerAutoScreenshot: Script terminated. (0F4879B4)
+[04:09:42.260515] (system)	ML-ReloadAll: Script terminated. (0F4893BC)
+[04:09:42.261506] (system)	SF Integration: Script terminated. (0F48846C)
+[04:09:42.262503] (system)	xmashack.lua: Script terminated. (0F48815C)
+[04:09:42.263503] (system)	[Auto] Autologin.lua: Script terminated. (0F487B3C)
+[04:09:42.264498] (system)	[Auto] fixCarLeave.lua: Script terminated. (0F487CC4)
+[04:09:42.264498] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F487E4C)
+[04:09:42.265495] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F4885F4)
+[04:09:42.266493] (system)	sskin: Script terminated. (0F488C14)
+[04:09:42.267491] (system)	setWeather&Time: Script terminated. (0F487FD4)
+[04:09:42.268487] (system)	Medz Menu: Script terminated. (0F488A8C)
+[04:09:42.271478] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0F488D9C)
+[04:09:42.272481] (system)	Chat MImGui: Script terminated. (0F489544)
+[04:09:42.275469] (system)	[mimgui] Textdraws.lua: Script terminated. (1E2DE4D4)
+[04:09:42.278466] (system)	[PG] Menu V1.12.lua: Script terminated. (1E2DF424)
+[04:09:42.279462] (system)	[PG] Scripts.lua: Script terminated. (1E2DEC7C)
+[04:09:42.280459] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:09:42.280459] (debug)	New script: 0F4B2FDC
+[04:09:42.281455] (system)	hooks.lua: Loaded successfully.
+[04:09:42.281455] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:09:42.281455] (debug)	New script: 0F4B32EC
+[04:09:42.295447] (system)	imgui_notf.lua: Loaded successfully.
+[04:09:42.295447] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:09:42.295447] (debug)	New script: 0F4B40B4
+[04:09:42.296412] (system)	Infinite Run: Loaded successfully.
+[04:09:42.296412] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:09:42.296412] (debug)	New script: 0F4B3164
+[04:09:42.309410] (system)	Medz.lua: Loaded successfully.
+[04:09:42.309410] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:09:42.309410] (debug)	New script: 0F4B423C
+[04:09:42.313398] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:09:42.313398] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:09:42.313398] (debug)	New script: 0F4B3474
+[04:09:42.314396] (system)	ML-ReloadAll: Loaded successfully.
+[04:09:42.314396] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:09:42.314396] (debug)	New script: 0F4B35FC
+[04:09:42.315394] (system)	SF Integration: Loaded successfully.
+[04:09:42.315394] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:09:42.315394] (debug)	New script: 0F4B43C4
+[04:09:42.320380] (system)	xmashack.lua: Loaded successfully.
+[04:09:42.320380] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:09:42.320380] (debug)	New script: 0F4B26AC
+[04:09:42.324370] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:09:42.324370] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:09:42.324370] (debug)	New script: 0F4B2B44
+[04:09:42.325335] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:09:42.325335] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:09:42.325335] (debug)	New script: 0F4B2834
+[04:09:42.328363] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:09:42.328363] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:09:42.328363] (debug)	New script: 0F4B2CCC
+[04:09:42.329357] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:09:42.329357] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:09:42.329357] (debug)	New script: 0F4B29BC
+[04:09:42.330356] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:09:42.330356] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:09:42.330356] (debug)	New script: 0F48846C
+[04:09:42.333348] (system)	sskin: Loaded successfully.
+[04:09:42.333348] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:09:42.333348] (debug)	New script: 0F4882E4
+[04:09:42.333348] (system)	setWeather&Time: Loaded successfully.
+[04:09:42.333348] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:09:42.333348] (debug)	New script: 0F488F24
+[04:09:42.360265] (system)	Medz Menu: Loaded successfully.
+[04:09:42.360265] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:09:42.360265] (debug)	New script: 0F488D9C
+[04:09:42.376237] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:09:42.376237] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:09:42.376237] (debug)	New script: 0F488C14
+[04:09:42.384213] (system)	Chat MImGui: Loaded successfully.
+[04:09:42.384213] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:09:42.384213] (debug)	New script: 0F4893BC
+[04:09:42.394186] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:09:42.394186] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:09:42.394186] (debug)	New script: 0F487E4C
+[04:09:42.425101] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:09:42.425101] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:09:42.425101] (debug)	New script: 0F4890AC
+[04:09:42.429097] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:09:42.430088] (system)	[Cmd] Short Commands.lua: Script terminated. (0F4B29BC)
+[04:09:43.360776] (script)	Medz.lua: ***MEDZ LOADED***
+[04:09:44.258088] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:10:08.307751] (system)	hooks.lua: Script terminated. (0F4B2FDC)
+[04:10:08.308753] (system)	imgui_notf.lua: Script terminated. (0F4B32EC)
+[04:10:08.309745] (system)	Infinite Run: Script terminated. (0F4B40B4)
+[04:10:08.310737] (system)	Medz.lua: Script terminated. (0F4B3164)
+[04:10:08.311738] (system)	MonserKillerAutoScreenshot: Script terminated. (0F4B423C)
+[04:10:08.312732] (system)	ML-ReloadAll: Script terminated. (0F4B3474)
+[04:10:08.313729] (system)	SF Integration: Script terminated. (0F4B35FC)
+[04:10:08.314727] (system)	xmashack.lua: Script terminated. (0F4B43C4)
+[04:10:08.315722] (system)	[Auto] Autologin.lua: Script terminated. (0F4B26AC)
+[04:10:08.316721] (system)	[Auto] fixCarLeave.lua: Script terminated. (0F4B2B44)
+[04:10:08.316721] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F4B2834)
+[04:10:08.317717] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F4B2CCC)
+[04:10:08.318716] (system)	sskin: Script terminated. (0F48846C)
+[04:10:08.319712] (system)	setWeather&Time: Script terminated. (0F4882E4)
+[04:10:08.320715] (system)	Medz Menu: Script terminated. (0F488F24)
+[04:10:08.322704] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0F488D9C)
+[04:10:08.323707] (system)	Chat MImGui: Script terminated. (0F488C14)
+[04:10:08.326695] (system)	[mimgui] Textdraws.lua: Script terminated. (0F4893BC)
+[04:10:08.328688] (system)	[PG] Menu V1.12.lua: Script terminated. (0F487E4C)
+[04:10:08.330688] (system)	[PG] Scripts.lua: Script terminated. (0F4890AC)
+[04:10:08.330688] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:10:08.330688] (debug)	New script: 2D03F55C
+[04:10:08.331680] (system)	hooks.lua: Loaded successfully.
+[04:10:08.331680] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:10:08.331680] (debug)	New script: 2D040324
+[04:10:08.345642] (system)	imgui_notf.lua: Loaded successfully.
+[04:10:08.345642] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:10:08.345642] (debug)	New script: 2D03FE8C
+[04:10:08.346639] (system)	Infinite Run: Loaded successfully.
+[04:10:08.346639] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:10:08.346639] (debug)	New script: 2D03F86C
+[04:10:08.360626] (system)	Medz.lua: Loaded successfully.
+[04:10:08.360626] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:10:08.360626] (debug)	New script: 2D03F24C
+[04:10:08.364612] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:10:08.364612] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:10:08.364612] (debug)	New script: 2D03FB7C
+[04:10:08.365613] (system)	ML-ReloadAll: Loaded successfully.
+[04:10:08.365613] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:10:08.365613] (debug)	New script: 2D03EDB4
+[04:10:08.366615] (system)	SF Integration: Loaded successfully.
+[04:10:08.366615] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:10:08.366615] (debug)	New script: 2D040014
+[04:10:08.371604] (system)	xmashack.lua: Loaded successfully.
+[04:10:08.371604] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:10:08.371604] (debug)	New script: 2D040634
+[04:10:08.374602] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:10:08.374602] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:10:08.374602] (debug)	New script: 2D03EF3C
+[04:10:08.375593] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:10:08.375593] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:10:08.375593] (debug)	New script: 0F488D9C
+[04:10:08.379585] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:10:08.379585] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:10:08.379585] (debug)	New script: 0F488C14
+[04:10:08.380583] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:10:08.380583] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:10:08.380583] (debug)	New script: 0F489234
+[04:10:08.381548] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:10:08.381548] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:10:08.381548] (debug)	New script: 0F4882E4
+[04:10:08.384570] (system)	sskin: Loaded successfully.
+[04:10:08.384570] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:10:08.384570] (debug)	New script: 0F4893BC
+[04:10:08.384570] (system)	setWeather&Time: Loaded successfully.
+[04:10:08.384570] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:10:08.385570] (debug)	New script: 0F48846C
+[04:10:08.412499] (system)	Medz Menu: Loaded successfully.
+[04:10:08.412499] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:10:08.412499] (debug)	New script: 0F487E4C
+[04:10:08.428456] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:10:08.428456] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:10:08.428456] (debug)	New script: 0F488F24
+[04:10:08.437432] (system)	Chat MImGui: Loaded successfully.
+[04:10:08.437432] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:10:08.437432] (debug)	New script: 0F4890AC
+[04:10:08.447406] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:10:08.447406] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:10:08.447406] (debug)	New script: 0F888C54
+[04:10:08.480318] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:10:08.480318] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:10:08.480318] (debug)	New script: 1E2AE5EC
+[04:10:08.484307] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:10:08.485304] (system)	[Cmd] Short Commands.lua: Script terminated. (0F489234)
+[04:10:09.411931] (script)	Medz.lua: ***MEDZ LOADED***
+[04:10:10.310539] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:10:26.377477] (system)	hooks.lua: Script terminated. (2D03F55C)
+[04:10:26.378468] (system)	imgui_notf.lua: Script terminated. (2D040324)
+[04:10:26.380470] (system)	Infinite Run: Script terminated. (2D03FE8C)
+[04:10:26.380470] (system)	Medz.lua: Script terminated. (2D03F86C)
+[04:10:26.382457] (system)	MonserKillerAutoScreenshot: Script terminated. (2D03F24C)
+[04:10:26.383455] (system)	ML-ReloadAll: Script terminated. (2D03FB7C)
+[04:10:26.384452] (system)	SF Integration: Script terminated. (2D03EDB4)
+[04:10:26.385458] (system)	xmashack.lua: Script terminated. (2D040014)
+[04:10:26.386447] (system)	[Auto] Autologin.lua: Script terminated. (2D040634)
+[04:10:26.387444] (system)	[Auto] fixCarLeave.lua: Script terminated. (2D03EF3C)
+[04:10:26.388441] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F488D9C)
+[04:10:26.388441] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F488C14)
+[04:10:26.389439] (system)	sskin: Script terminated. (0F4882E4)
+[04:10:26.390440] (system)	setWeather&Time: Script terminated. (0F4893BC)
+[04:10:26.391433] (system)	Medz Menu: Script terminated. (0F48846C)
+[04:10:26.393431] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0F487E4C)
+[04:10:26.394431] (system)	Chat MImGui: Script terminated. (0F488F24)
+[04:10:26.397417] (system)	[mimgui] Textdraws.lua: Script terminated. (0F4890AC)
+[04:10:26.399417] (system)	[PG] Menu V1.12.lua: Script terminated. (0F888C54)
+[04:10:26.401411] (system)	[PG] Scripts.lua: Script terminated. (1E2AE5EC)
+[04:10:26.401411] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:10:26.401411] (debug)	New script: 0F88A65C
+[04:10:26.402407] (system)	hooks.lua: Loaded successfully.
+[04:10:26.402407] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:10:26.402407] (debug)	New script: 0F888C54
+[04:10:26.415399] (system)	imgui_notf.lua: Loaded successfully.
+[04:10:26.416367] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:10:26.416367] (debug)	New script: 0F888DDC
+[04:10:26.416367] (system)	Infinite Run: Loaded successfully.
+[04:10:26.416367] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:10:26.416367] (debug)	New script: 0F888944
+[04:10:26.429362] (system)	Medz.lua: Loaded successfully.
+[04:10:26.429362] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:10:26.429362] (debug)	New script: 0F889D2C
+[04:10:26.433360] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:10:26.433360] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:10:26.433360] (debug)	New script: 0F88970C
+[04:10:26.434348] (system)	ML-ReloadAll: Loaded successfully.
+[04:10:26.434348] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:10:26.434348] (debug)	New script: 0F888ACC
+[04:10:26.435346] (system)	SF Integration: Loaded successfully.
+[04:10:26.435346] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:10:26.435346] (debug)	New script: 0F889584
+[04:10:26.440334] (system)	xmashack.lua: Loaded successfully.
+[04:10:26.440334] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:10:26.440334] (debug)	New script: 0F888F64
+[04:10:26.444324] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:10:26.444324] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:10:26.444324] (debug)	New script: 0F8893FC
+[04:10:26.444324] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:10:26.444324] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:10:26.444324] (debug)	New script: 0F8890EC
+[04:10:26.448314] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:10:26.448314] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:10:26.448314] (debug)	New script: 0F889894
+[04:10:26.449309] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:10:26.449309] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:10:26.449309] (debug)	New script: 0F889A1C
+[04:10:26.450305] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:10:26.450305] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:10:26.450305] (debug)	New script: 0F889EB4
+[04:10:26.453297] (system)	sskin: Loaded successfully.
+[04:10:26.453297] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:10:26.453297] (debug)	New script: 0F88A03C
+[04:10:26.453297] (system)	setWeather&Time: Loaded successfully.
+[04:10:26.453297] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:10:26.453297] (debug)	New script: 0F889BA4
+[04:10:26.480197] (system)	Medz Menu: Loaded successfully.
+[04:10:26.480197] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:10:26.480197] (debug)	New script: 0F88A1C4
+[04:10:26.496154] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:10:26.496154] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:10:26.496154] (debug)	New script: 0F88A34C
+[04:10:26.504133] (system)	Chat MImGui: Loaded successfully.
+[04:10:26.504133] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:10:26.504133] (debug)	New script: 0F88A4D4
+[04:10:26.514106] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:10:26.514106] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:10:26.514106] (debug)	New script: 0F488C14
+[04:10:26.546020] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:10:26.546020] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:10:26.546020] (debug)	New script: 0F4879B4
+[04:10:26.549013] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:10:26.551007] (system)	[Cmd] Short Commands.lua: Script terminated. (0F889A1C)
+[04:10:27.481317] (script)	Medz.lua: ***MEDZ LOADED***
+[04:10:28.378896] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:11:13.710391] (system)	hooks.lua: Script terminated. (0F88A65C)
+[04:11:13.711390] (system)	imgui_notf.lua: Script terminated. (0F888C54)
+[04:11:13.713387] (system)	Infinite Run: Script terminated. (0F888DDC)
+[04:11:13.713387] (system)	Medz.lua: Script terminated. (0F888944)
+[04:11:13.715397] (system)	MonserKillerAutoScreenshot: Script terminated. (0F889D2C)
+[04:11:13.716342] (system)	ML-ReloadAll: Script terminated. (0F88970C)
+[04:11:13.717344] (system)	SF Integration: Script terminated. (0F888ACC)
+[04:11:13.717344] (system)	xmashack.lua: Script terminated. (0F889584)
+[04:11:13.718337] (system)	[Auto] Autologin.lua: Script terminated. (0F888F64)
+[04:11:13.719334] (system)	[Auto] fixCarLeave.lua: Script terminated. (0F8893FC)
+[04:11:13.720331] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F8890EC)
+[04:11:13.721328] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F889894)
+[04:11:13.722330] (system)	sskin: Script terminated. (0F889EB4)
+[04:11:13.723327] (system)	setWeather&Time: Script terminated. (0F88A03C)
+[04:11:13.723327] (system)	Medz Menu: Script terminated. (0F889BA4)
+[04:11:13.726314] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0F88A1C4)
+[04:11:13.727318] (system)	Chat MImGui: Script terminated. (0F88A34C)
+[04:11:13.730303] (system)	[mimgui] Textdraws.lua: Script terminated. (0F88A4D4)
+[04:11:13.733301] (system)	[PG] Menu V1.12.lua: Script terminated. (0F488C14)
+[04:11:13.734298] (system)	[PG] Scripts.lua: Script terminated. (0F4879B4)
+[04:11:13.734298] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:11:13.734298] (debug)	New script: 1DE0EAC4
+[04:11:13.735295] (system)	hooks.lua: Loaded successfully.
+[04:11:13.735295] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:11:13.735295] (debug)	New script: 1DE0FD24
+[04:11:13.748260] (system)	imgui_notf.lua: Loaded successfully.
+[04:11:13.749257] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:11:13.749257] (debug)	New script: 1DE0E62C
+[04:11:13.749257] (system)	Infinite Run: Loaded successfully.
+[04:11:13.749257] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:11:13.749257] (debug)	New script: 1DE0E7B4
+[04:11:13.762244] (system)	Medz.lua: Loaded successfully.
+[04:11:13.762244] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:11:13.762244] (debug)	New script: 1DE0F0E4
+[04:11:13.766239] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:11:13.766239] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:11:13.766239] (debug)	New script: 1DE0E93C
+[04:11:13.766239] (system)	ML-ReloadAll: Loaded successfully.
+[04:11:13.766239] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:11:13.766239] (debug)	New script: 1DE0F704
+[04:11:13.768233] (system)	SF Integration: Loaded successfully.
+[04:11:13.768233] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:11:13.768233] (debug)	New script: 1DE0EC4C
+[04:11:13.773222] (system)	xmashack.lua: Loaded successfully.
+[04:11:13.773222] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:11:13.773222] (debug)	New script: 1DE0F26C
+[04:11:13.776181] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:11:13.776181] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:11:13.776181] (debug)	New script: 1DE0EDD4
+[04:11:13.777179] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:11:13.777179] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:11:13.777179] (debug)	New script: 1DE101BC
+[04:11:13.780201] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:11:13.780201] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:11:13.780201] (debug)	New script: 1DE0EF5C
+[04:11:13.781200] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:11:13.781200] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:11:13.781200] (debug)	New script: 1DE0F88C
+[04:11:13.782204] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:11:13.782204] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:11:13.782204] (debug)	New script: 1DE0F3F4
+[04:11:13.785192] (system)	sskin: Loaded successfully.
+[04:11:13.785192] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:11:13.785192] (debug)	New script: 1DE0FA14
+[04:11:13.786200] (system)	setWeather&Time: Loaded successfully.
+[04:11:13.786200] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:11:13.786200] (debug)	New script: 1DE0FB9C
+[04:11:13.812115] (system)	Medz Menu: Loaded successfully.
+[04:11:13.812115] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:11:13.812115] (debug)	New script: 1DE0E4A4
+[04:11:13.827048] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:11:13.827048] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:11:13.827048] (debug)	New script: 1DE0FEAC
+[04:11:13.835059] (system)	Chat MImGui: Loaded successfully.
+[04:11:13.835059] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:11:13.835059] (debug)	New script: 1DE10034
+[04:11:13.846020] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:11:13.846020] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:11:13.846020] (debug)	New script: 1E2ADCBC
+[04:11:13.877908] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:11:13.878906] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:11:13.878906] (debug)	New script: 1E2AE154
+[04:11:13.881900] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:11:13.883928] (error)	MonserKillerAutoScreenshot: ...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:13: attempt to call global 'SampAddChatMessage' (a nil value)
+stack traceback:
+	...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua: in function <...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:10>
+[04:11:13.884939] (error)	MonserKillerAutoScreenshot: Script died due to an error. (1DE0F0E4)
+[04:11:13.885887] (system)	[Cmd] Short Commands.lua: Script terminated. (1DE0F88C)
+[04:11:14.813567] (script)	Medz.lua: ***MEDZ LOADED***
+[04:11:15.710647] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:11:32.655046] (system)	hooks.lua: Script terminated. (1DE0EAC4)
+[04:11:32.656044] (system)	imgui_notf.lua: Script terminated. (1DE0FD24)
+[04:11:32.657041] (system)	Infinite Run: Script terminated. (1DE0E62C)
+[04:11:32.658041] (system)	Medz.lua: Script terminated. (1DE0E7B4)
+[04:11:32.659035] (system)	ML-ReloadAll: Script terminated. (1DE0E93C)
+[04:11:32.660033] (system)	SF Integration: Script terminated. (1DE0F704)
+[04:11:32.660033] (system)	xmashack.lua: Script terminated. (1DE0EC4C)
+[04:11:32.662028] (system)	[Auto] Autologin.lua: Script terminated. (1DE0F26C)
+[04:11:32.663024] (system)	[Auto] fixCarLeave.lua: Script terminated. (1DE0EDD4)
+[04:11:32.663024] (system)	[Auto] Logs v1.1.lua: Script terminated. (1DE101BC)
+[04:11:32.664022] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (1DE0EF5C)
+[04:11:32.665020] (system)	sskin: Script terminated. (1DE0F3F4)
+[04:11:32.666017] (system)	setWeather&Time: Script terminated. (1DE0FA14)
+[04:11:32.667015] (system)	Medz Menu: Script terminated. (1DE0FB9C)
+[04:11:32.669009] (system)	[Menu] SWAT V1.2.lua: Script terminated. (1DE0E4A4)
+[04:11:32.670006] (system)	Chat MImGui: Script terminated. (1DE0FEAC)
+[04:11:32.672999] (system)	[mimgui] Textdraws.lua: Script terminated. (1DE10034)
+[04:11:32.674993] (system)	[PG] Menu V1.12.lua: Script terminated. (1E2ADCBC)
+[04:11:32.675990] (system)	[PG] Scripts.lua: Script terminated. (1E2AE154)
+[04:11:32.675990] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:11:32.675990] (debug)	New script: 0F48846C
+[04:11:32.676988] (system)	hooks.lua: Loaded successfully.
+[04:11:32.676988] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:11:32.676988] (debug)	New script: 0F48877C
+[04:11:32.689953] (system)	imgui_notf.lua: Loaded successfully.
+[04:11:32.690950] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:11:32.690950] (debug)	New script: 0F487E4C
+[04:11:32.690950] (system)	Infinite Run: Loaded successfully.
+[04:11:32.690950] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:11:32.690950] (debug)	New script: 0F488D9C
+[04:11:32.703919] (system)	Medz.lua: Loaded successfully.
+[04:11:32.703919] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:11:32.703919] (debug)	New script: 0F487FD4
+[04:11:32.708926] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:11:32.708926] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:11:32.708926] (debug)	New script: 0F488F24
+[04:11:32.708926] (system)	ML-ReloadAll: Loaded successfully.
+[04:11:32.708926] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:11:32.708926] (debug)	New script: 0F487CC4
+[04:11:32.710923] (system)	SF Integration: Loaded successfully.
+[04:11:32.710923] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:11:32.710923] (debug)	New script: 0F4890AC
+[04:11:32.715909] (system)	xmashack.lua: Loaded successfully.
+[04:11:32.715909] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:11:32.715909] (debug)	New script: 0F48815C
+[04:11:32.718902] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:11:32.718902] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:11:32.718902] (debug)	New script: 0F4885F4
+[04:11:32.719900] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:11:32.719900] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:11:32.719900] (debug)	New script: 0F4882E4
+[04:11:32.722896] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:11:32.722896] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:11:32.723897] (debug)	New script: 0F4893BC
+[04:11:32.724893] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:11:32.724893] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:11:32.724893] (debug)	New script: 0F488904
+[04:11:32.724893] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:11:32.724893] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:11:32.724893] (debug)	New script: 0F488A8C
+[04:11:32.727882] (system)	sskin: Loaded successfully.
+[04:11:32.727882] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:11:32.727882] (debug)	New script: 1DE0F704
+[04:11:32.728879] (system)	setWeather&Time: Loaded successfully.
+[04:11:32.728879] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:11:32.728879] (debug)	New script: 1DE0FA14
+[04:11:32.755835] (system)	Medz Menu: Loaded successfully.
+[04:11:32.755835] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:11:32.755835] (debug)	New script: 1DE0EF5C
+[04:11:32.771766] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:11:32.771766] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:11:32.771766] (debug)	New script: 1DE0E4A4
+[04:11:32.779749] (system)	Chat MImGui: Loaded successfully.
+[04:11:32.779749] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:11:32.779749] (debug)	New script: 1DE0EDD4
+[04:11:32.790714] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:11:32.790714] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:11:32.790714] (debug)	New script: 1DE0FEAC
+[04:11:32.822628] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:11:32.822628] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:11:32.822628] (debug)	New script: 1DE0F57C
+[04:11:32.825622] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:11:32.826618] (error)	MonserKillerAutoScreenshot: ...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:16: attempt to call global 'SampAddChatMessage' (a nil value)
+stack traceback:
+	...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua: in function <...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:13>
+[04:11:32.826618] (error)	MonserKillerAutoScreenshot: Script died due to an error. (0F487FD4)
+[04:11:32.828581] (system)	[Cmd] Short Commands.lua: Script terminated. (0F488904)
+[04:11:33.757724] (script)	Medz.lua: ***MEDZ LOADED***
+[04:11:34.659311] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:11:37.182846] (system)	hooks.lua: Script terminated. (0F48846C)
+[04:11:37.183812] (system)	imgui_notf.lua: Script terminated. (0F48877C)
+[04:11:37.184815] (system)	Infinite Run: Script terminated. (0F487E4C)
+[04:11:37.185805] (system)	Medz.lua: Script terminated. (0F488D9C)
+[04:11:37.186808] (system)	ML-ReloadAll: Script terminated. (0F488F24)
+[04:11:37.187801] (system)	SF Integration: Script terminated. (0F487CC4)
+[04:11:37.188798] (system)	xmashack.lua: Script terminated. (0F4890AC)
+[04:11:37.189796] (system)	[Auto] Autologin.lua: Script terminated. (0F48815C)
+[04:11:37.189796] (system)	[Auto] fixCarLeave.lua: Script terminated. (0F4885F4)
+[04:11:37.190794] (system)	[Auto] Logs v1.1.lua: Script terminated. (0F4882E4)
+[04:11:37.191795] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0F4893BC)
+[04:11:37.192787] (system)	sskin: Script terminated. (0F488A8C)
+[04:11:37.193785] (system)	setWeather&Time: Script terminated. (1DE0F704)
+[04:11:37.193785] (system)	Medz Menu: Script terminated. (1DE0FA14)
+[04:11:37.195783] (system)	[Menu] SWAT V1.2.lua: Script terminated. (1DE0EF5C)
+[04:11:37.197775] (system)	Chat MImGui: Script terminated. (1DE0E4A4)
+[04:11:37.199768] (system)	[mimgui] Textdraws.lua: Script terminated. (1DE0EDD4)
+[04:11:37.201767] (system)	[PG] Menu V1.12.lua: Script terminated. (1DE0FEAC)
+[04:11:37.202765] (system)	[PG] Scripts.lua: Script terminated. (1DE0F57C)
+[04:11:37.203762] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:11:37.203762] (debug)	New script: 1DE0FA14
+[04:11:37.204759] (system)	hooks.lua: Loaded successfully.
+[04:11:37.204759] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:11:37.204759] (debug)	New script: 1DE0FEAC
+[04:11:37.217753] (system)	imgui_notf.lua: Loaded successfully.
+[04:11:37.217753] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:11:37.217753] (debug)	New script: 1DE0EC4C
+[04:11:37.218721] (system)	Infinite Run: Loaded successfully.
+[04:11:37.218721] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:11:37.218721] (debug)	New script: 1DE0F704
+[04:11:37.231716] (system)	Medz.lua: Loaded successfully.
+[04:11:37.231716] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:11:37.231716] (debug)	New script: 1DE0FD24
+[04:11:37.235702] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:11:37.235702] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:11:37.235702] (debug)	New script: 1DE10034
+[04:11:37.236694] (system)	ML-ReloadAll: Loaded successfully.
+[04:11:37.236694] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:11:37.236694] (debug)	New script: 1DE0EDD4
+[04:11:37.238689] (system)	SF Integration: Loaded successfully.
+[04:11:37.238689] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:11:37.238689] (debug)	New script: 1DE0E4A4
+[04:11:37.243674] (system)	xmashack.lua: Loaded successfully.
+[04:11:37.243674] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:11:37.243674] (debug)	New script: 1DE0F57C
+[04:11:37.246666] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:11:37.246666] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:11:37.246666] (debug)	New script: 1DE0FB9C
+[04:11:37.247674] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:11:37.247674] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:11:37.247674] (debug)	New script: 1DE0E93C
+[04:11:37.250656] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:11:37.250656] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:11:37.250656] (debug)	New script: 1DE101BC
+[04:11:37.251653] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:11:37.251653] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:11:37.252651] (debug)	New script: 1DE0EF5C
+[04:11:37.252651] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:11:37.252651] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:11:37.252651] (debug)	New script: 1DE0EAC4
+[04:11:37.255642] (system)	sskin: Loaded successfully.
+[04:11:37.255642] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:11:37.256617] (debug)	New script: 1DE0F26C
+[04:11:37.256617] (system)	setWeather&Time: Loaded successfully.
+[04:11:37.256617] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:11:37.256617] (debug)	New script: 1DE0E62C
+[04:11:37.283545] (system)	Medz Menu: Loaded successfully.
+[04:11:37.283545] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:11:37.283545] (debug)	New script: 1DE0F3F4
+[04:11:37.300530] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:11:37.300530] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:11:37.300530] (debug)	New script: 1DE0E7B4
+[04:11:37.308510] (system)	Chat MImGui: Loaded successfully.
+[04:11:37.308510] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:11:37.308510] (debug)	New script: 0F4882E4
+[04:11:37.319448] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:11:37.319448] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:11:37.319448] (debug)	New script: 0F488D9C
+[04:11:37.350400] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:11:37.350400] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:11:37.350400] (debug)	New script: 0F487CC4
+[04:11:37.353389] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:11:37.354389] (error)	MonserKillerAutoScreenshot: ...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:16: attempt to call global 'SampAddChatMessage' (a nil value)
+stack traceback:
+	...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua: in function <...dz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua:13>
+[04:11:37.354389] (error)	MonserKillerAutoScreenshot: Script died due to an error. (1DE0FD24)
+[04:11:37.356350] (system)	[Cmd] Short Commands.lua: Script terminated. (1DE0EF5C)
+[04:11:38.290865] (script)	Medz.lua: ***MEDZ LOADED***
+[04:11:39.196993] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:12:05.981290] (system)	hooks.lua: Script terminated. (1DE0FA14)
+[04:12:05.982279] (system)	imgui_notf.lua: Script terminated. (1DE0FEAC)
+[04:12:05.983277] (system)	Infinite Run: Script terminated. (1DE0EC4C)
+[04:12:05.984274] (system)	Medz.lua: Script terminated. (1DE0F704)
+[04:12:05.985271] (system)	ML-ReloadAll: Script terminated. (1DE10034)
+[04:12:05.986282] (system)	SF Integration: Script terminated. (1DE0EDD4)
+[04:12:05.987266] (system)	xmashack.lua: Script terminated. (1DE0E4A4)
+[04:12:05.988263] (system)	[Auto] Autologin.lua: Script terminated. (1DE0F57C)
+[04:12:05.989260] (system)	[Auto] fixCarLeave.lua: Script terminated. (1DE0FB9C)
+[04:12:05.989260] (system)	[Auto] Logs v1.1.lua: Script terminated. (1DE0E93C)
+[04:12:05.990258] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (1DE101BC)
+[04:12:05.991255] (system)	sskin: Script terminated. (1DE0EAC4)
+[04:12:05.992252] (system)	setWeather&Time: Script terminated. (1DE0F26C)
+[04:12:05.992252] (system)	Medz Menu: Script terminated. (1DE0E62C)
+[04:12:05.994247] (system)	[Menu] SWAT V1.2.lua: Script terminated. (1DE0F3F4)
+[04:12:05.996242] (system)	Chat MImGui: Script terminated. (1DE0E7B4)
+[04:12:05.998236] (system)	[mimgui] Textdraws.lua: Script terminated. (0F4882E4)
+[04:12:06.000231] (system)	[PG] Menu V1.12.lua: Script terminated. (0F488D9C)
+[04:12:06.001228] (system)	[PG] Scripts.lua: Script terminated. (0F487CC4)
+[04:12:06.002225] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:12:06.002225] (debug)	New script: 0BAFA91C
+[04:12:06.003223] (system)	hooks.lua: Loaded successfully.
+[04:12:06.003223] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:12:06.003223] (debug)	New script: 1DE0F26C
+[04:12:06.016188] (system)	imgui_notf.lua: Loaded successfully.
+[04:12:06.016188] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:12:06.016188] (debug)	New script: 1DE0FEAC
+[04:12:06.017185] (system)	Infinite Run: Loaded successfully.
+[04:12:06.017185] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:12:06.017185] (debug)	New script: 1DE0F0E4
+[04:12:06.030151] (system)	Medz.lua: Loaded successfully.
+[04:12:06.030151] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:12:06.030151] (debug)	New script: 1DE10034
+[04:12:06.034140] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:12:06.034140] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:12:06.035138] (debug)	New script: 1DE0E7B4
+[04:12:06.035138] (system)	ML-ReloadAll: Loaded successfully.
+[04:12:06.035138] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:12:06.035138] (debug)	New script: 1DE0EAC4
+[04:12:06.037132] (system)	SF Integration: Loaded successfully.
+[04:12:06.037132] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:12:06.037132] (debug)	New script: 1DE0F57C
+[04:12:06.042118] (system)	xmashack.lua: Loaded successfully.
+[04:12:06.042118] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:12:06.042118] (debug)	New script: 1DE0EC4C
+[04:12:06.045110] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:12:06.045110] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:12:06.045110] (debug)	New script: 1DE0E93C
+[04:12:06.046108] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:12:06.046108] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:12:06.046108] (debug)	New script: 1DE101BC
+[04:12:06.049100] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:12:06.049100] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:12:06.049100] (debug)	New script: 1DE0EDD4
+[04:12:06.051095] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:12:06.051095] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:12:06.051095] (debug)	New script: 1DE0F3F4
+[04:12:06.051095] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:12:06.051095] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:12:06.051095] (debug)	New script: 1DE0E4A4
+[04:12:06.054087] (system)	sskin: Loaded successfully.
+[04:12:06.054087] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:12:06.054087] (debug)	New script: 1DE0F704
+[04:12:06.055084] (system)	setWeather&Time: Loaded successfully.
+[04:12:06.055084] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:12:06.055084] (debug)	New script: 1DE0F88C
+[04:12:06.081518] (system)	Medz Menu: Loaded successfully.
+[04:12:06.081518] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:12:06.081518] (debug)	New script: 1DE0E62C
+[04:12:06.097476] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:12:06.097476] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:12:06.097476] (debug)	New script: 1DE0FA14
+[04:12:06.105454] (system)	Chat MImGui: Loaded successfully.
+[04:12:06.105454] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:12:06.105454] (debug)	New script: 1DE0FB9C
+[04:12:06.116425] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:12:06.116425] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:12:06.116425] (debug)	New script: 0F8893FC
+[04:12:06.147342] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:12:06.147342] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:12:06.147342] (debug)	New script: 0F889894
+[04:12:06.151332] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:12:06.153326] (system)	[Cmd] Short Commands.lua: Script terminated. (1DE0F3F4)
+[04:12:07.085309] (script)	Medz.lua: ***MEDZ LOADED***
+[04:12:07.983031] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:12:19.141901] (system)	hooks.lua: Script terminated. (0BAFA91C)
+[04:12:19.142892] (system)	imgui_notf.lua: Script terminated. (1DE0F26C)
+[04:12:19.143950] (system)	Infinite Run: Script terminated. (1DE0FEAC)
+[04:12:19.144887] (system)	Medz.lua: Script terminated. (1DE0F0E4)
+[04:12:19.146881] (system)	MonserKillerAutoScreenshot: Script terminated. (1DE10034)
+[04:12:19.147879] (system)	ML-ReloadAll: Script terminated. (1DE0E7B4)
+[04:12:19.148882] (system)	SF Integration: Script terminated. (1DE0EAC4)
+[04:12:19.148882] (system)	xmashack.lua: Script terminated. (1DE0F57C)
+[04:12:19.149874] (system)	[Auto] Autologin.lua: Script terminated. (1DE0EC4C)
+[04:12:19.150872] (system)	[Auto] fixCarLeave.lua: Script terminated. (1DE0E93C)
+[04:12:19.151868] (system)	[Auto] Logs v1.1.lua: Script terminated. (1DE101BC)
+[04:12:19.152866] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (1DE0EDD4)
+[04:12:19.153869] (system)	sskin: Script terminated. (1DE0E4A4)
+[04:12:19.153869] (system)	setWeather&Time: Script terminated. (1DE0F704)
+[04:12:19.154861] (system)	Medz Menu: Script terminated. (1DE0F88C)
+[04:12:19.156860] (system)	[Menu] SWAT V1.2.lua: Script terminated. (1DE0E62C)
+[04:12:19.158850] (system)	Chat MImGui: Script terminated. (1DE0FA14)
+[04:12:19.160844] (system)	[mimgui] Textdraws.lua: Script terminated. (1DE0FB9C)
+[04:12:19.162843] (system)	[PG] Menu V1.12.lua: Script terminated. (0F8893FC)
+[04:12:19.163840] (system)	[PG] Scripts.lua: Script terminated. (0F889894)
+[04:12:19.164838] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:12:19.164838] (debug)	New script: 0BAFC014
+[04:12:19.164838] (system)	hooks.lua: Loaded successfully.
+[04:12:19.164838] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:12:19.164838] (debug)	New script: 0BAFA91C
+[04:12:19.178835] (system)	imgui_notf.lua: Loaded successfully.
+[04:12:19.178835] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:12:19.178835] (debug)	New script: 0BAFB6E4
+[04:12:19.179826] (system)	Infinite Run: Loaded successfully.
+[04:12:19.179826] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:12:19.179826] (debug)	New script: 0BAFA60C
+[04:12:19.192759] (system)	Medz.lua: Loaded successfully.
+[04:12:19.192759] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:12:19.193757] (debug)	New script: 0BAFB86C
+[04:12:19.197780] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:12:19.197780] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:12:19.197780] (debug)	New script: 0BAFAAA4
+[04:12:19.198758] (system)	ML-ReloadAll: Loaded successfully.
+[04:12:19.198758] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:12:19.198758] (debug)	New script: 0BAFB9F4
+[04:12:19.199772] (system)	SF Integration: Loaded successfully.
+[04:12:19.199772] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:12:19.199772] (debug)	New script: 0BAFAC2C
+[04:12:19.205754] (system)	xmashack.lua: Loaded successfully.
+[04:12:19.205754] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:12:19.205754] (debug)	New script: 0BAFB24C
+[04:12:19.208720] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:12:19.208720] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:12:19.208720] (debug)	New script: 0BAFA794
+[04:12:19.209717] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:12:19.209717] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:12:19.209717] (debug)	New script: 0BAFB0C4
+[04:12:19.213738] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:12:19.213738] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:12:19.213738] (debug)	New script: 0BAFBB7C
+[04:12:19.214732] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:12:19.214732] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:12:19.214732] (debug)	New script: 0BAFADB4
+[04:12:19.215705] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:12:19.215705] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:12:19.215705] (debug)	New script: 0BAFAF3C
+[04:12:19.218693] (system)	sskin: Loaded successfully.
+[04:12:19.218693] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:12:19.218693] (debug)	New script: 0BAFBD04
+[04:12:19.219687] (system)	setWeather&Time: Loaded successfully.
+[04:12:19.219687] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:12:19.219687] (debug)	New script: 0BAFBE8C
+[04:12:19.247423] (system)	Medz Menu: Loaded successfully.
+[04:12:19.247423] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:12:19.247423] (debug)	New script: 0BAFC324
+[04:12:19.263380] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:12:19.263380] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:12:19.263380] (debug)	New script: 0F488F24
+[04:12:19.272356] (system)	Chat MImGui: Loaded successfully.
+[04:12:19.272356] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:12:19.272356] (debug)	New script: 0F48877C
+[04:12:19.283322] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:12:19.283322] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:12:19.283322] (debug)	New script: 0F487E4C
+[04:12:19.315238] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:12:19.315238] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:12:19.315238] (debug)	New script: 0F4890AC
+[04:12:19.319228] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:12:19.321223] (system)	[Cmd] Short Commands.lua: Script terminated. (0BAFADB4)
+[04:12:20.241138] (script)	Medz.lua: ***MEDZ LOADED***
+[04:12:21.145718] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12
+[04:15:26.001904] (system)	hooks.lua: Script terminated. (0BAFC014)
+[04:15:26.002901] (system)	imgui_notf.lua: Script terminated. (0BAFA91C)
+[04:15:26.003899] (system)	Infinite Run: Script terminated. (0BAFB6E4)
+[04:15:26.004896] (system)	Medz.lua: Script terminated. (0BAFA60C)
+[04:15:26.006891] (system)	MonserKillerAutoScreenshot: Script terminated. (0BAFB86C)
+[04:15:26.006891] (system)	ML-ReloadAll: Script terminated. (0BAFAAA4)
+[04:15:26.007888] (system)	SF Integration: Script terminated. (0BAFB9F4)
+[04:15:26.008886] (system)	xmashack.lua: Script terminated. (0BAFAC2C)
+[04:15:26.009889] (system)	[Auto] Autologin.lua: Script terminated. (0BAFB24C)
+[04:15:26.010879] (system)	[Auto] fixCarLeave.lua: Script terminated. (0BAFA794)
+[04:15:26.011877] (system)	[Auto] Logs v1.1.lua: Script terminated. (0BAFB0C4)
+[04:15:26.011877] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Script terminated. (0BAFBB7C)
+[04:15:26.012874] (system)	sskin: Script terminated. (0BAFAF3C)
+[04:15:26.013872] (system)	setWeather&Time: Script terminated. (0BAFBD04)
+[04:15:26.014869] (system)	Medz Menu: Script terminated. (0BAFBE8C)
+[04:15:26.017861] (system)	[Menu] SWAT V1.2.lua: Script terminated. (0BAFC324)
+[04:15:26.019855] (system)	Chat MImGui: Script terminated. (0F488F24)
+[04:15:26.021854] (system)	[mimgui] Textdraws.lua: Script terminated. (0F48877C)
+[04:15:26.024846] (system)	[PG] Menu V1.12.lua: Script terminated. (0F487E4C)
+[04:15:26.026841] (system)	[PG] Scripts.lua: Script terminated. (0F4890AC)
+[04:15:26.026841] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\hooks.lua'...
+[04:15:26.026841] (debug)	New script: 0BAFB0C4
+[04:15:26.027838] (system)	hooks.lua: Loaded successfully.
+[04:15:26.027838] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\imgui_notf.lua'...
+[04:15:26.027838] (debug)	New script: 0BAFC324
+[04:15:26.040866] (system)	imgui_notf.lua: Loaded successfully.
+[04:15:26.040866] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Infinite Run.lua'...
+[04:15:26.040866] (debug)	New script: 0BAFA91C
+[04:15:26.041863] (system)	Infinite Run: Loaded successfully.
+[04:15:26.041863] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\Medz.lua'...
+[04:15:26.041863] (debug)	New script: 0BAFAF3C
+[04:15:26.054827] (system)	Medz.lua: Loaded successfully.
+[04:15:26.055794] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\MonserKillerAutoScreenshot.lua'...
+[04:15:26.055794] (debug)	New script: 0BAFBD04
+[04:15:26.059815] (system)	MonserKillerAutoScreenshot: Loaded successfully.
+[04:15:26.059815] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\reload_all.lua'...
+[04:15:26.059815] (debug)	New script: 0BAFBE8C
+[04:15:26.059815] (system)	ML-ReloadAll: Loaded successfully.
+[04:15:26.059815] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\SF Integration.lua'...
+[04:15:26.059815] (debug)	New script: 0BAFB24C
+[04:15:26.061811] (system)	SF Integration: Loaded successfully.
+[04:15:26.061811] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\xmashack.lua'...
+[04:15:26.061811] (debug)	New script: 0BAFB6E4
+[04:15:26.066764] (system)	xmashack.lua: Loaded successfully.
+[04:15:26.066764] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Autologin.lua'...
+[04:15:26.066764] (debug)	New script: 0BAFBB7C
+[04:15:26.069786] (system)	[Auto] Autologin.lua: Loaded successfully.
+[04:15:26.069786] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] fixCarLeave.lua'...
+[04:15:26.069786] (debug)	New script: 0BAFB3D4
+[04:15:26.070783] (system)	[Auto] fixCarLeave.lua: Loaded successfully.
+[04:15:26.070783] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto] Logs v1.1.lua'...
+[04:15:26.070783] (debug)	New script: 0BAFC014
+[04:15:26.073776] (system)	[Auto] Logs v1.1.lua: Loaded successfully.
+[04:15:26.073776] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Auto]Ww_DisableAccesoriesOnAiming.lua'...
+[04:15:26.073776] (debug)	New script: 0BAFB86C
+[04:15:26.075773] (system)	[Auto]Ww_DisableAccesoriesOnAiming.lua: Loaded successfully.
+[04:15:26.075773] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Short Commands.lua'...
+[04:15:26.075773] (debug)	New script: 0BAFB9F4
+[04:15:26.075773] (system)	[Cmd] Short Commands.lua: Loaded successfully.
+[04:15:26.075773] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] Skin Changer.lua'...
+[04:15:26.075773] (debug)	New script: 0BAFA60C
+[04:15:26.078732] (system)	sskin: Loaded successfully.
+[04:15:26.078732] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Cmd] SW & ST.lua'...
+[04:15:26.078732] (debug)	New script: 0BAFA794
+[04:15:26.079762] (system)	setWeather&Time: Loaded successfully.
+[04:15:26.079762] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] Cheats Menu.lua'...
+[04:15:26.079762] (debug)	New script: 0BAFAAA4
+[04:15:26.106682] (system)	Medz Menu: Loaded successfully.
+[04:15:26.106682] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[Menu] SWAT V1.2.lua'...
+[04:15:26.106682] (debug)	New script: 0BAFAC2C
+[04:15:26.122639] (system)	[Menu] SWAT V1.2.lua: Loaded successfully.
+[04:15:26.122639] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Chat.lua'...
+[04:15:26.122639] (debug)	New script: 3F5E95EC
+[04:15:26.130621] (system)	Chat MImGui: Loaded successfully.
+[04:15:26.130621] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[mimgui] Textdraws.lua'...
+[04:15:26.130621] (debug)	New script: 3F5E8B34
+[04:15:26.140597] (system)	[mimgui] Textdraws.lua: Loaded successfully.
+[04:15:26.140597] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Menu V1.12.lua'...
+[04:15:26.140597] (debug)	New script: 3F5E8E44
+[04:15:26.174508] (system)	[PG] Menu V1.12.lua: Loaded successfully.
+[04:15:26.174508] (system)	Loading script 'G:\Medz's GTA [NEW]\moonloader\[PG] Scripts.lua'...
+[04:15:26.174508] (debug)	New script: 3F5E7BE4
+[04:15:26.178501] (system)	[PG] Scripts.lua: Loaded successfully.
+[04:15:26.179497] (system)	[Cmd] Short Commands.lua: Script terminated. (0BAFB9F4)
+[04:15:27.104055] (script)	Medz.lua: ***MEDZ LOADED***
+[04:15:28.005780] (script)	[PG] Menu V1.12.lua: PG Menu Loaded v1.12

@@ -1,0 +1,24 @@
+{
+    "Lua.diagnostics.globals": [
+        "lfs",
+        "ngx",
+        "validType"
+    ],
+    "Lua.workspace.library": [
+        "${3rd}/lfs/library",
+        "${3rd}/OpenResty/library",
+        "C:/Users/Medz/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/moonloader/module/library",
+        "C:/Users/Medz/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/luafilesystem/module/library"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.diagnostics.disable": [
+        "deprecated",
+        "undefined-field",
+        "param-type-mismatch",
+        "undefined-global",
+        "lowercase-global",
+        "assign-type-mismatch",
+        "redundant-parameter"
+    ]
+}
